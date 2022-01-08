@@ -9,3 +9,4 @@ Using Python, Pandas functions and methods, as well as SQLAlchemy we filtereted 
 ![This is an image](https://github.com/AleksKostrycka/surfs_up/blob/main/Resources/Summary%20of%20June%20Statistics.png?raw=true)
 ![This is an image](https://github.com/AleksKostrycka/surfs_up/blob/main/Resources/Summary%20of%20December%20Statistics.png?raw=true)
 
+* The results above indicate that the average temperature in June is ~75 degrees and 4 degrees higher than December ~71 degrees. This represents (5.6%) decrease in the temperature between the two months defined. This is inline with the expectation that the summer months are warmer than winter  months in Hawaii, however this is also an indication that helps us determine if the surd and ice cream ship business is sustianable year-round. With the temperature drop of only (%5.6) this is a positive affirmation that the suirf and ice cream shop business would be sustainable in June and December. 
