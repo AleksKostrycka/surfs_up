@@ -4,3 +4,4 @@
 The purpose of the analysis was to provide information on temperature trends on Oahu, Hawaii in the months of June and December. This will provide an insightful trend at two separate points of the year in order to help determine if the surf and ice cream shop business is sustainable year-round. 
 
 ## Results 
+Using Python, Pandas functions and methods, as well as SQLAlchemy we filtereted the data column of the Measruement table in the 
